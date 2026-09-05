@@ -161,3 +161,5 @@ Health check:
 `http://localhost:8080/api/v1/risk/health`
 
 The project intentionally keeps the original hybrid Maven + Vite structure so both the React frontend and Spring Boot backend can run from the same root folder.
+
+![Dashboard Preview](assets/RazorGuard-Dashboard%20check1.png)
